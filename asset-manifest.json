@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Insight-dashboard-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/Insight-dashboard-frontend/static/js/main.9e2a9f16.js",
+    "static/js/453.419a5d54.chunk.js": "/Insight-dashboard-frontend/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Insight-dashboard-frontend/index.html",
+    "main.e6c13ad2.css.map": "/Insight-dashboard-frontend/static/css/main.e6c13ad2.css.map",
+    "main.9e2a9f16.js.map": "/Insight-dashboard-frontend/static/js/main.9e2a9f16.js.map",
+    "453.419a5d54.chunk.js.map": "/Insight-dashboard-frontend/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9e2a9f16.js"
+  ]
+}
