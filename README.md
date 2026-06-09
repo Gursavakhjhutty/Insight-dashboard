@@ -1,3 +1,11 @@
+## Rational and Reasoning
+
+There is often a unsatisfied need for Data Analytics and Insight building in organizations that are unable to afford a Data Analyst, often this is the very issue that keeps them from optimizing enough to afford such a luxury. This tool is designed to midigate this issue at least in the early stages of stakeholder insight building. 
+
+## Testing
+
+This program has been tested with a dataset surpassing 15GB in size, anything beyond that size you do at your own risk and may lead to weird interaction. A requirement of at least 512 MB of memory is needed as this application builds usually 3 graphs and needs that memory as to render them.
+
 ## Available Scripts
 
 In the project directory, you can run:
